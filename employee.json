@@ -1,0 +1,14 @@
+{
+  "employee": [
+    {
+      "Name": "Prince",
+      "ProfileImage": "../asset/pf1.JPG",
+      "Gender": "Male",
+      "Department": "[\"HR\",\"\"]",
+      "Salary": "10000",
+      "Date": "25/7/10",
+      "Notes": "hjbbkj",
+      "id": 1
+    }
+  ]
+}

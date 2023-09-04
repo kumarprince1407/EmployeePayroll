@@ -1,0 +1,87 @@
+body {
+  background-color: rgb(243, 239, 239);
+}
+.container1 {
+  height: 80px;
+  background-color: rgb(243, 247, 250);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+.container3 {
+  margin-top: 10px;
+  height: 600px;
+  background-color: white;
+  display: flex;
+  /*width: 800px;*/
+  margin-left: 200px;
+  margin-right: 200px;
+  flex-direction: column;
+}
+#h1 {
+  color: blue;
+}
+#box1 {
+  margin-left: 100px;
+}
+
+#box2 {
+  margin-left: 100px;
+}
+#textarea1 {
+  height: 25px;
+  width: 500px;
+}
+
+#salary {
+  width: 220px;
+  height: 30px;
+}
+
+#day {
+  width: 100px;
+  height: 30px;
+}
+
+#month {
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+}
+
+#year {
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+}
+
+#textarea2 {
+  height: 50px;
+  width: 500px;
+}
+#submit {
+  margin-top: 10px;
+  margin-left: 290px;
+  width: 100px;
+  height: 30px;
+}
+#cancel {
+  margin-top: 15px;
+  width: 100px;
+  height: 30px;
+}
+#reset {
+  margin-top: 10px;
+
+  width: 100px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.profilepic {
+  width: 40px;
+  height: 20px;
+}

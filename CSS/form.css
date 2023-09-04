@@ -1,0 +1,125 @@
+body {
+  background-color: rgb(243, 239, 239);
+}
+.container1 {
+  height: 80px;
+  background-color: rgb(243, 247, 250);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+.container3 {
+  margin-top: 10px;
+  height: 600px;
+  background-color: white;
+  display: flex;
+  /*width: 800px;*/
+  margin-left: 200px;
+  margin-right: 200px;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#h1 {
+  color: blue;
+}
+#box1 {
+  margin-left: 100px;
+}
+
+#box2 {
+  margin-left: 100px;
+}
+#textarea1 {
+  height: 25px;
+  width: 500px;
+}
+
+#salary {
+  width: 220px;
+  height: 30px;
+}
+
+#day {
+  width: 100px;
+  height: 30px;
+}
+
+#month {
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+}
+
+#year {
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+}
+
+#textarea2 {
+  height: 50px;
+  width: 500px;
+}
+#submit {
+  margin-top: 10px;
+  margin-left: 350px;
+  width: 100px;
+  height: 30px;
+}
+#cancel {
+  margin-top: 15px;
+  width: 100px;
+  height: 30px;
+}
+#reset {
+  margin-top: 10px;
+
+  width: 100px;
+  height: 30px;
+  margin-left: 10px;
+}
+#checkbox2 {
+  margin-left: 75px;
+  margin-right: 0px;
+}
+
+.profilepic {
+  width: 40px;
+  height: 20px;
+}
+
+.box {
+  /* Your existing box styles */
+  width: 80%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  width: 150px;
+  margin-right: 10px;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.form-group .checkbox-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

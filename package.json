@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "server": "json-server --watch employee.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
